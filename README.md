@@ -71,7 +71,7 @@ src/
 
 Here is the output of the test cases that executed successfully:
 
-![Test Output](https://github.com/Mahesh33217/Incubyte/blob/4559c21458410c672e02ad2e80fd0129c2cdb33a/Test%20output%20(2).png)
+![Test Output](https://github.com/Mahesh33217/LMS/blob/86eb3108dc4b259719577439ed747ce46bdfe407/Screenshot%202024-09-27%20115115.png)
 
 
  <p align='center'>Visitors Count <br><img align="center" alt="Repo Visitors" src="https://profile-counter.glitch.me/LMS/count.svg"/></p>
